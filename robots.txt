@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-s15ft0.wedang77land.store/sitemap.xml
